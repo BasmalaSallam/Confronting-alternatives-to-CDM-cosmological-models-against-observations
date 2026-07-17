@@ -5,5 +5,6 @@ In this project, we are going to test different alternative models to the standa
 
 
 # Data Used:
-PantheonPlus: https://github.com/PantheonPlusSH0ES/DataRelease/tree/main/Pantheon%2B_Data/4_DISTANCES_AND_COVAR \\
+PantheonPlus: https://github.com/PantheonPlusSH0ES/DataRelease/tree/main/Pantheon%2B_Data/4_DISTANCES_AND_COVAR 
+
 BAO data: https://github.com/CobayaSampler/bao_data/tree/master/desi_bao_dr2
