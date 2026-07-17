@@ -1,5 +1,7 @@
 # Confronting-alternatives-to-CDM-cosmological-models-against-observations
 This project was a part of the 6th Summer School and Internship Programme at CTP, British University in Egypt.
 
-Galaxies contain gas that is energetically driven by various processes, such as mergers and infall of gas onto galaxies, gravitational contraction of gas clouds within galaxies  the differential in discs, and supernovae explosions within the clouds. The gaseous interstellar medium, thus driven, is highly turbulent, with Fourier power spectrum showing a scale-invariant power law on a very wide range of scales. The characterization of the density and velocity fluctuations associated with the (compressible) turbulence is important for understanding galaxy formation, structure and evolution,. But its origin is still intensely debated. This is a  developing topic, driven by incoming data, of higher resolution and cosmic depth, and ever more sophisticated numerical  modelling. The project has numerical simulation (and, time permitting) actual data from the state of the art PHANGS survey. 
+In this project, we are going to test different alternative models to the standard model of cosmology – ΛCDM - as possible solutions to problems that it faces, e.g., 𝐻0 and 𝜎8 tensions. We will use Bayesian inference (or likelihood analysis) to test these models against different cosmological datasets (Supernovae, cosmic microwave background latest, topical DESI results etc...).
+
+
 
